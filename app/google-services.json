@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868710232754",
+    "project_id": "bitcointicker-e29d7",
+    "storage_bucket": "bitcointicker-e29d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868710232754:android:b9f321b46931a50320cfab",
+        "android_client_info": {
+          "package_name": "mobi.okmobile.bitcointicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868710232754-qbfmg738mhboquh52esiadfof1i4bbsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobi.okmobile.bitcointicker",
+            "certificate_hash": "72cbdc19e4bd785ae12938429cc5d9f21874f26e"
+          }
+        },
+        {
+          "client_id": "868710232754-l195mv31cflcc70i64dsa6ud5pfj022f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWoIhOs0Bq5tLruzL6O-ejDW2cF_5mLY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868710232754-l195mv31cflcc70i64dsa6ud5pfj022f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
