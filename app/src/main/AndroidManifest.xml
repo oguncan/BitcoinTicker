@@ -12,9 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BitcoinTicker"
         android:usesCleartextTraffic="true">
-        <activity android:name=".ui.auth.LoginActivity"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".ui.home.HomeActivity"
+        <activity android:name=".ui.auth.AuthActivity"></activity>
+        <activity
+            android:name=".ui.home.HomeActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

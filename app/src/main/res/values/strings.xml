@@ -8,5 +8,5 @@
     <string name="login">Login</string>
     <string name="email">Email</string>
 
-    <string name="register_here">Hesabınız Yok Mu?\nBuradan Kaydolun.</string>
+    <string name="register_here">Hesabınız Yok Mu?\n<b>Buradan Kaydolun.</b></string>
 </resources>
