@@ -10,4 +10,6 @@
 
     <string name="register_here">Hesabınız Yok Mu?\n<b>Buradan Kaydolun.</b></string>
     <string name="login_here">Hesabınız Mı Var?\n<b>Buradan Giriş Yapın.</b></string>
+
+    <string name="search">Search</string>
 </resources>
