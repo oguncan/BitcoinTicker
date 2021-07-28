@@ -63,6 +63,7 @@
                 android:layout_margin="24dp"
                 android:drawablePadding="8dp"
                 android:gravity="center"
+                android:textColor="@color/black"
                 android:text="@string/has_no_favorites"
                 android:visibility="@{viewModel.favouritesEmpty ? View.VISIBLE : View.GONE}"
                 app:layout_constraintBottom_toBottomOf="parent"

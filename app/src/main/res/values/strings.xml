@@ -22,4 +22,5 @@
 
     <string name="added_to_favourite">%1$s Favorilere Eklendi</string>
     <string name="removed_to_favourite">%1$s Favorilerden Kaldırıldı</string>
+    <string name="search_hint">Coin ismi, ID\'i veya Sembolü</string>
 </resources>
