@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">BitcoinTicker</string>
+
+    <!-- Login - Register String Values -->
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+
+    <string name="register_here">Hesabınız Yok Mu?\n<b>Buradan Kaydolun.</b></string>
+    <string name="login_here">Hesabınız Mı Var?\n<b>Buradan Giriş Yapın.</b></string>
+
+    <string name="search">Search</string>
+    <string name="favorites">Favoriler</string>
+
+    <string name="all_coins">Kripto Paralar</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="has_no_favorites">Favori Coin Bulunamadı.</string>
+    <string name="refresh_msg">Değerler Güncellendi</string>
+    <string name="coins_list_error">Kripto Para Listesi Getirilemedi. Lütfen Tekrar Deneyin.</string>
+
+    <string name="added_to_favourite">%1$s Favorilere Eklendi</string>
+    <string name="removed_to_favourite">%1$s Favorilerden Kaldırıldı</string>
+    <string name="search_hint">Coin ismi, ID\'i veya Sembolü</string>
 </resources>
