@@ -10,12 +10,13 @@ import androidx.lifecycle.ViewModelProviders
 import mobi.okmobile.bitcointicker.R
 import mobi.okmobile.bitcointicker.databinding.FragmentLoginBinding
 import mobi.okmobile.bitcointicker.databinding.FragmentRegisterBinding
+import mobi.okmobile.bitcointicker.ui.base.BaseFragment
 import org.kodein.di.Kodein
 import org.kodein.di.KodeinAware
 import org.kodein.di.generic.instance
 
 
-class RegisterFragment : Fragment(), AuthListener, KodeinAware {
+class RegisterFragment : BaseFragment(), AuthListener, KodeinAware {
 
     private val factory: AuthViewModelFactory by instance()
     private lateinit var viewModel: AuthViewModel
@@ -57,6 +58,14 @@ class RegisterFragment : Fragment(), AuthListener, KodeinAware {
         viewModel.user?.let {
 
         }
+    }
+
+    override fun initializeViews() {
+
+    }
+
+    override fun observeViewModel() {
+
     }
 
 }

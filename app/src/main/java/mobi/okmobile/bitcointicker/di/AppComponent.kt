@@ -1,11 +1,13 @@
 package mobi.okmobile.bitcointicker.di
 
+import android.app.AppComponentFactory
 import android.content.Context
 import dagger.Module
 import dagger.Provides
+import dagger.hilt.DefineComponent
 import dagger.hilt.InstallIn
-import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
+import io.reactivex.internal.operators.single.SingleContains
 import mobi.okmobile.bitcointicker.api.ApiInterface
 import mobi.okmobile.bitcointicker.util.Constants
 import okhttp3.Interceptor
