@@ -17,5 +17,9 @@
     <string name="all_coins">Kripto Paralar</string>
     <string name="logout">Çıkış Yap</string>
     <string name="has_no_favorites">Favori Coin Bulunamadı.</string>
+    <string name="refresh_msg">Değerler Güncellendi</string>
     <string name="coins_list_error">Kripto Para Listesi Getirilemedi. Lütfen Tekrar Deneyin.</string>
+
+    <string name="added_to_favourite">%1$s Favorilere Eklendi</string>
+    <string name="removed_to_favourite">%1$s Favorilerden Kaldırıldı</string>
 </resources>
