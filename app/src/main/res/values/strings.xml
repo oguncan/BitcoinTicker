@@ -12,4 +12,10 @@
     <string name="login_here">Hesabınız Mı Var?\n<b>Buradan Giriş Yapın.</b></string>
 
     <string name="search">Search</string>
+    <string name="favorites">Favoriler</string>
+
+    <string name="all_coins">Kripto Paralar</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="has_no_favorites">Favori Coin Bulunamadı.</string>
+    <string name="coins_list_error">Kripto Para Listesi Getirilemedi. Lütfen Tekrar Deneyin.</string>
 </resources>
